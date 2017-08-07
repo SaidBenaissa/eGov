@@ -25,11 +25,6 @@ FAQ related to various deployment and development issues are discussed [here][FA
 #### Prerequisites
 
 * Install [maven v3.2.x][Maven]
-  === For OSX =================
-  To install the latest version:
-     $brew update
-     $brew install maven
-     ==============================
 * Install [PostgreSQL v9.4][PostgreSQL]
 * Install [Elastic Search v2.4.x][Elastic Search]
 * Install [Jboss Wildfly v10.x][Wildfly Customized]
